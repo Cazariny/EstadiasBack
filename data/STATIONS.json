@@ -1,0 +1,274 @@
+[
+  {
+    "station_name": "Zamora",
+    "latitude": 20.076,
+    "longitude": -102.27208,
+    "elevation": 5265.75,
+    "station_id_uuid": "6c5aba38-a04c-44ad-8e74-c989e95834f7",
+    "scrap": "True"
+  },
+  {
+    "station_name": "Rancho El Yaqui",
+    "latitude": 20.04928,
+    "longitude": -102.31498,
+    "elevation": 5118.11,
+    "station_id_uuid": "dcf80473-0509-4cb6-b3dd-d392cacb7229",
+    "scrap": "True"
+  },
+  {
+    "station_name": "Fresepo",
+    "latitude": 19.87908203,
+    "longitude": -102.2002912,
+    "elevation": 5606.96,
+    "station_id_uuid": "dbf1a7e3-33c6-4989-b53b-46a60022fff8",
+    "scrap": "True"
+  },
+  {
+    "station_name": "LASPALOMAS",
+    "latitude": 19.8338,
+    "longitude": -102.29807,
+    "elevation": 7896.98,
+    "station_id_uuid": "1f4cc180-5580-498d-b980-dcfae6faf07d",
+    "scrap": "True"
+  },
+  {
+    "station_name": "Ivar 1 Sahuayo",
+    "latitude": 20.0359417,
+    "longitude": -102.7063036,
+    "elevation": 4980.31,
+    "station_id_uuid": "2a270d66-074a-41c7-ac27-12bd9d2443bb",
+    "scrap": "True"
+  },
+  {
+    "station_name": "TZIRIMONDIRO",
+    "latitude": 19.34497445,
+    "longitude": -102.3371836,
+    "elevation": 7280.18,
+    "station_id_uuid": "df801edb-df52-4fe5-9dec-56101a6b4448",
+    "scrap": "True"
+  },
+  {
+    "station_name": "Guerrero",
+    "latitude": 19.3219381,
+    "longitude": -102.3200687,
+    "elevation": 6807.74,
+    "station_id_uuid": "146dc01b-2757-4f02-a82d-b115c966a033",
+    "scrap": "True"
+  },
+  {
+    "station_name": "Apatzingan",
+    "latitude": 19.09354,
+    "longitude": -102.40576,
+    "elevation": 853.02,
+    "station_id_uuid": "a7a6548f-9e2e-4172-a348-c9bb50654610",
+    "scrap": "True"
+  },
+  {
+    "station_name": "San Antonio",
+    "latitude": 19.38684,
+    "longitude": -102.14477,
+    "elevation": 6640.42,
+    "station_id_uuid": "1bf5c0d1-31a9-4e8a-af40-4efe29e2e520",
+    "scrap": "True"
+  },
+  {
+    "station_name": "Hlosrayos",
+    "latitude": 19.4713329,
+    "longitude": -102.0917943,
+    "elevation": 6240.16,
+    "station_id_uuid": "84f3a33c-bcf6-4d70-bd5e-273fbc1c91d2",
+    "scrap": "True"
+  },
+  {
+    "station_name": "San Manuel",
+    "latitude": 19.37396,
+    "longitude": -102.0854,
+    "elevation": 5380.58,
+    "station_id_uuid": "dcf3046a-c595-4b43-98f7-10455801b5be",
+    "scrap": "True"
+  },
+  {
+    "station_name": "Rancho Tziritzicuaro",
+    "latitude": 19.0264925,
+    "longitude": -101.9723956,
+    "elevation": 1574.8,
+    "station_id_uuid": "31b9dbd9-b52a-4dca-ad81-8d3f73879a1f",
+    "scrap": "True"
+  },
+  {
+    "station_name": "MONTANADELUCES",
+    "latitude": 19.85095,
+    "longitude": -101.9387,
+    "elevation": 9130.58,
+    "station_id_uuid": "b08174d5-9ea8-403b-9de9-9f08e9ebfc15",
+    "scrap": "True"
+  },
+  {
+    "station_name": "ELMILAGRO",
+    "latitude": 19.86835,
+    "longitude": -101.88358,
+    "elevation": 7959.32,
+    "station_id_uuid": "16c04018-5591-4630-89ae-7433c62c9468",
+    "scrap": "True"
+  },
+  {
+    "station_name": "Guerrete",
+    "latitude": 19.4287564,
+    "longitude": -101.9052152,
+    "elevation": 4547.24,
+    "station_id_uuid": "342cf31d-bb3a-4d15-8b8a-7cefbd06ed0c",
+    "scrap": "True"
+  },
+  {
+    "station_name": "La Mesa",
+    "latitude": 19.37879,
+    "longitude": -101.85531,
+    "elevation": 5088.58,
+    "station_id_uuid": "72795223-af11-4428-82e8-5a2aa7310576",
+    "scrap": "True"
+  },
+  {
+    "station_name": "ERONGARICUARO",
+    "latitude": 19.06778,
+    "longitude": -101.76944,
+    "elevation": 4491.47,
+    "station_id_uuid": "6cc37754-2028-4f86-aaa2-c6104e76935d",
+    "scrap": "True"
+  },
+  {
+    "station_name": "La Concordia",
+    "latitude": 19.23701,
+    "longitude": -101.72721,
+    "elevation": 6161.42,
+    "station_id_uuid": "a1a0bd86-274a-4bdd-ae0d-64a0073651ce",
+    "scrap": "True"
+  },
+  {
+    "station_name": "buenavista",
+    "latitude": 19.24104806,
+    "longitude": -101.5399345,
+    "elevation": 6043.31,
+    "station_id_uuid": "a3dd2771-ec85-4a3b-9ec5-d5eaab917d99",
+    "scrap": "True"
+  },
+  {
+    "station_name": "CUTZARONDIRO",
+    "latitude": 19.2083497,
+    "longitude": -101.508084,
+    "elevation": 4934.38,
+    "station_id_uuid": "a9ab5ae5-af62-48ae-9a80-092c4cf464f4",
+    "scrap": "True"
+  },
+  {
+    "station_name": "ELALAMO",
+    "latitude": 19.2497194,
+    "longitude": -101.4753914,
+    "elevation": 5895.67,
+    "station_id_uuid": "9bf8f533-b445-4620-8417-a64519951855",
+    "scrap": "True"
+  },
+  {
+    "station_name": "sanantoniomich",
+    "latitude": 19.28731,
+    "longitude": -101.46746,
+    "elevation": 6925.85,
+    "station_id_uuid": "06820d90-47dc-426b-b45a-ed7373f6a58d",
+    "scrap": "True"
+  },
+  {
+    "station_name": "laguardia",
+    "latitude": 19.30362648,
+    "longitude": -101.4759155,
+    "elevation": 7506.56,
+    "station_id_uuid": "7de78d99-0115-4e5c-b0e7-80abef0c3fda",
+    "scrap": "True"
+  },
+  {
+    "station_name": "LACOYOTERA",
+    "latitude": 19.32771,
+    "longitude": -101.45976,
+    "elevation": 7536.09,
+    "station_id_uuid": "037f5758-46e3-4300-b08b-d12482a7307c",
+    "scrap": "True"
+  },
+  {
+    "station_name": "laholla",
+    "latitude": 19.30414,
+    "longitude": -101.42406,
+    "elevation": 6637.14,
+    "station_id_uuid": "6478182e-152b-480f-b7e4-c83dc9294649",
+    "scrap": "True"
+  },
+  {
+    "station_name": "Espinama F1",
+    "latitude": 19.68452,
+    "longitude": -101.44941,
+    "elevation": 8461.29,
+    "station_id_uuid": "7e46ca33-da27-4658-8a1d-1dfde45d8650",
+    "scrap": "True"
+  },
+  {
+    "station_name": "Espinama F2",
+    "latitude": 19.6833,
+    "longitude": -101.43736,
+    "elevation": 8238.19,
+    "station_id_uuid": "a221c042-3b25-4900-a5d3-ae4c1dbc0252",
+    "scrap": "True"
+  },
+  {
+    "station_name": "Capricho",
+    "latitude": 19.53037,
+    "longitude": -101.32348,
+    "elevation": 6584.65,
+    "station_id_uuid": "03a018db-b832-4cc6-80f5-e85c808c1bc9",
+    "scrap": "True"
+  },
+  {
+    "station_name": "Unidad Meteorologica UTM",
+    "latitude": 19.72566,
+    "longitude": -101.16419,
+    "elevation": 6190.94,
+    "station_id_uuid": "909d8edd-1dbb-4212-b692-1229fe75e173",
+    "scrap": "True"
+  },
+  {
+    "station_name": "ucareovc",
+    "latitude": 19.86124,
+    "longitude": -100.66168,
+    "elevation": 8339.9,
+    "station_id_uuid": "b1dc75cf-7b5e-4cb4-bbe9-c3999a570502",
+    "scrap": "True"
+  },
+  {
+    "station_name": "AGUAAMARILLA",
+    "latitude": 19.56689,
+    "longitude": -100.41608,
+    "elevation": 7447.51,
+    "station_id_uuid": "1a160eae-a97d-4fa5-b192-8e803fee7abd",
+    "scrap": "True"
+  },
+  {
+    "station_name": "ELZAPOTE",
+    "latitude": 19.56647,
+    "longitude": -100.39916,
+    "elevation": 7211.29,
+    "station_id_uuid": "61ba3f2f-fe64-4d9c-9ea7-bbee007a805d",
+    "scrap": "True"
+  },
+  {
+    "station_name": "JACUARILLO",
+    "latitude": 19.55525,
+    "longitude": -100.39103,
+    "elevation": 7234.25,
+    "station_id_uuid": "0fdcfdc6-bab3-4b6a-bfc4-4e097365a84d",
+    "scrap": "True"
+  },
+  {
+    "station_name": "Zitacuaro",
+    "latitude": 19.455,
+    "longitude": -100.34057,
+    "elevation": 6496.06,
+    "station_id_uuid": "9f3fa7cf-aaad-4fc0-8cda-62eaac5b20b6",
+    "scrap": "True"
+  }
+]
