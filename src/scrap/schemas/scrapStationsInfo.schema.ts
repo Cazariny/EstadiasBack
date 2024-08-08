@@ -12,7 +12,7 @@ export class ScrapStationsInfo extends Document {
   station_id_uuid: string;
 
   @Prop()
-  temperature: string;
+  temperature: number;
 
   // @Prop()
   // humidity: string;
